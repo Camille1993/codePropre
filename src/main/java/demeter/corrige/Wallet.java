@@ -11,12 +11,15 @@ public class Wallet {
 	/** Getter for money
 	 * @return the money
 	 */
+	
 	public double getMoney() {
 		return money;
 	}
+	
 	/** Setter
 	 * @param money the money to set
 	 */
+	
 	public void setMoney(double money) {
 		this.money = money;
 	}
